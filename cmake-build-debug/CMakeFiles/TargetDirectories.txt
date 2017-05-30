@@ -1,0 +1,3 @@
+/home/bn/CLionProjects/destroy-the-world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bn/CLionProjects/destroy-the-world/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bn/CLionProjects/destroy-the-world/cmake-build-debug/CMakeFiles/destroy_the_world.dir

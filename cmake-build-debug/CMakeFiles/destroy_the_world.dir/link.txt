@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/destroy_the_world.dir/main.cpp.o  -o destroy_the_world 
